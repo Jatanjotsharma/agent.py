@@ -1,3 +1,3 @@
-# USB Agent
+Agent
 
-Monitor USB activity in background.
+scan your computer's suspecious activity and help to resolve them .
